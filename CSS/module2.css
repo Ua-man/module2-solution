@@ -3,7 +3,7 @@
 }
 
 body {
-	background-image: url("/img/Terminator_1600x1040.png");
+	background-image: url('../img/Terminator_1600x1040.png');
 	background-repeat: no-repeat;
 	background-size: auto;
 	background-color: #0033cc;
